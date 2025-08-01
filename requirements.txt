@@ -1,0 +1,3 @@
+cd pandas
+ plotly_express
+ streamlit
